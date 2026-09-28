@@ -1,0 +1,6 @@
+{
+  "name": "ọdún kan",
+  "description": "An isometric sketchbook memory journal tracking the growth of a year from a minimalist cot into a vibrant garden and city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
